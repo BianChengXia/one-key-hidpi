@@ -68,7 +68,7 @@ if [[ "${systemLanguage}" == "zh_CN" ]]; then
     langChooseResOpCustom="(6) 手动输入分辨率"
 fi
 
-downloadHost="https://raw.githubusercontent.com/xzhih/one-key-hidpi/master"
+downloadHost="https://github.com/BianChengXia/one-key-hidpi/tree/master"
 # downloadHost="https://raw.githubusercontent.com/xzhih/one-key-hidpi/dev"
 # downloadHost="http://127.0.0.1:8080"
 
